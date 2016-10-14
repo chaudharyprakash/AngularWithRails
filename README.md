@@ -1,6 +1,10 @@
-<h3>Rails4 + AngularJS </h3>
 
-Check demo app <a href="https://rails4-crud-with-angularjs.herokuapp.com">here</a>.
+![alt tag](https://www.fullstackedu.com/images/videos/angular-rails.png)
+System Requirements:
+
+	ruby 2.3.0p0
+	Rails 4.1.0
+
 
 1. CRUD example using Rails4 + AngularJS
  
